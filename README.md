@@ -1,4 +1,4 @@
-# cross-border-commerce-skill
+# genpark-cross-border-commerce-skill
 
 > **GenPark AI Agent Skill** -- Handle cross-border e-commerce: multi-currency conversion, import duties, shipping costs, and compliance checks.
 
