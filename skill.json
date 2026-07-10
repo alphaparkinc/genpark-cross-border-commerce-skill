@@ -1,8 +1,8 @@
 {
   "name": "cross-border-commerce-skill",
   "version": "1.0.0",
-  "description": "Handle cross-border e-commerce: multi-currency conversion, import duties estimation, international shipping cost calculation, and compliance checks.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Handle cross-border e-commerce: multi-currency conversion, import duties estimation, international shipping cost calculation, and compliance checks.",
+  "author": "genpark",
   "category": "operations",
   "tags": [
     "cross-border",
